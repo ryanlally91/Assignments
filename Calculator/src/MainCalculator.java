@@ -17,7 +17,7 @@ public class MainCalculator {
 		int myAdditionSum = doAddition(UserInput1,UserInput2);
 		System.out.println(myAdditionSum);
 		//same as System.out.println(doAddition(UserInput1,UserInput2));
-					
+					//git
 			
 	}//end of main void
 	
